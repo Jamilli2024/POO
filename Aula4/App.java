@@ -1,6 +1,7 @@
+package Aula4;
 import java.util.Scanner;
 
-public class Aula3 {
+public class App {
     public static boolean ehPalindromo(String input){
             return false;
 
